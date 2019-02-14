@@ -1,6 +1,6 @@
 # Sprite animation with p5js
 
-This repository loads a spritemap with a sequence of 8 images that results in:
+This repository loads a spritemap with a sequence of 8 images that results in this animation:
 
 ![ufo](https://github.com/madeinouweland/sprite-animation-with-p5js/blob/master/ufo.gif)
 
@@ -30,6 +30,8 @@ A P5 image object has a method [get](https://p5js.org/reference/#/p5/get) that g
 ## Animating
 
 By cycling through the spriteMap and copying the desired part, we create the illusion of animation.
+
+![ufo](https://github.com/madeinouweland/sprite-animation-with-p5js/blob/master/ufo.gif)
 
 ```
 function draw() {
