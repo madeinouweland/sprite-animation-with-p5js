@@ -2,11 +2,11 @@
 
 This repository loads a spritemap with a sequence of 8 images that results in:
 
-![ufo]()
+![ufo](https://github.com/madeinouweland/sprite-animation-with-p5js/blob/master/ufo.gif)
 
 The spritemap looks like this:
 
-![spritemap]()
+![spritemap](https://github.com/madeinouweland/sprite-animation-with-p5js/blob/master/sheetdesign.png)
 
 Each cell is 150x150 pixels and we keep a list of cells in this image like this:
 
